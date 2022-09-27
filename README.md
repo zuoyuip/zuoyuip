@@ -22,12 +22,6 @@
 <br/>
 
 
-## 微信小程序
-
-`俗槽雅嗅`是本人对各种想法以文章的形式表达出来，偶尔也会写一些小说。
-
-<img src="https://oss.zuoyu.top/halo/8f2eac24cb315d1783d5c6ad25345da6.png" alt="Wechat QRcode" width=360>
-<br/>
 
 
 ## GitHub情况
