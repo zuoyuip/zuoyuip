@@ -2,6 +2,10 @@
 
 [博客](https://zuoyu.top)会记录一些学习笔记和想法，来兴致时候也会发布一些小说。比如：
 
+- [《短篇小说：悠子》（小说）](https://www.zuoyu.top/archives/youzi)：[https://www.zuoyu.top/archives/youzi]
+
+- [《所谓权谋：大明王朝1566》](https://www.zuoyu.top/archives/tactics)：[https://www.zuoyu.top/archives/tactics]
+
 - [《犯人》（小说）](https://www.zuoyu.top/archives/offender)：[https://www.zuoyu.top/archives/offender]
 
 - [《朕的父亲》](https://www.zuoyu.top/archives/father)：[https://www.zuoyu.top/archives/father]
